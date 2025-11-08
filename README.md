@@ -41,4 +41,4 @@ Exploring research opportunities in **Computer Vision, Embedded AI, and Intellig
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me about research or collaboration opportunities!*
+*Feel free to explore my repositories and connect with me about research or collaboration opportunities!*
